@@ -1,6 +1,0 @@
-Name    Surname    ID number    Cellphone number    Landline number    Position    Salary
-Vuk    Stevic    1111    0654663094    0112471569    Marketing manager    2500
-Luka    Lukic    2222    064555666    011244578    Library clerk    2000
-Milan    Nikolic    3333    063222333    0116654878    Security guard    2200
-Stefan    Markovic    4444    061111222    0119468484    Accountant    3000
-Jovan    Jovanovic    5555    060474755    0113355447    Software engineer    3500

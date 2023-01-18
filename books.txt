@@ -1,0 +1,11 @@
+Title    Author    Year    Genre    Number of pages
+Anna Karenina    Leo Tolstoy    1878    novel    864
+To Kill a Mockingbird    Harper Lee    1960    novel    281
+The Great Gatsby    F. Scott Fitzgerald    1925    tragedy    208
+One Hundred Years Of Solitude    Gabriel Garcia Marquez    1967    novel    417
+A Passage To India    E. M. Forster    1924    novel    368
+Invisible Man    Ralph Ellison    1952    novel    581
+Don Quixote    Miguel de Cervantes    1615    novel    1077
+Beloved    Toni Morrison    1987    novel    324
+Moby Dick    Herman Melville    1851    novel    378
+War And Peace    Leo Tolstoy    1869    novel    1225
